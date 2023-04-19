@@ -8,7 +8,8 @@ for(const num of [1,2,3,4]){
 console.log(num);
 }
 
-let a={
+let json={
   id:1,
   name:"Jayasurya",
 };
+console.log(JSON.stringify(josn));
