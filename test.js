@@ -13,3 +13,9 @@ let json={
   name:"Jayasurya",
 };
 console.log(JSON.stringify(josn));
+
+function add(x,y){
+return x+y;
+}
+
+console.log(add(a,b));
