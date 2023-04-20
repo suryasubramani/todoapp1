@@ -21,3 +21,6 @@ return x+y;
 console.log(add(a,b));
 
 console.log(new Date());
+
+class User{
+}
